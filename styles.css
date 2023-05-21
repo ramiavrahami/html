@@ -1,0 +1,22 @@
+body {
+	background-image: url("blue1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover
+  
+}
+table {
+	text-align:center;
+}
+
+
+
+
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
+
+img:hover {
+	
